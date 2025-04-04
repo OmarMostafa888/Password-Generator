@@ -51,6 +51,7 @@ h3 {
   border: 1px solid rgba(146, 145, 145, 0.61);
   padding: 10px;
   cursor: pointer;
+user-select: none;
 }
 
 .password svg {
