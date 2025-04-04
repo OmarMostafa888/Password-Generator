@@ -41,7 +41,7 @@ genBtn.addEventListener("click", (passLengthValue) => {
   let upperCase = "QWERTYUIOPASDFGHJKLZXCVBNM";
   let lowerCase = "qwertyuiopasdfghjklzxcvbnm";
   let numbers = "1234567890";
-  let symbols = "!@#$%^&*()_+}{/,.<>[]';";
+  let symbols = "~`!@#$%^&*()_-+={[}]|\:;"'<,>.?/";
   let charList = [upperCase, lowerCase, numbers, symbols];
   let checkUpper = document.getElementById("upper-case");
   let checkLower = document.getElementById("lower-case");
